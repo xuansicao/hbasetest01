@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4227cd53-f7e9-47d1-a202-54f8acdf8198" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/jobsoft/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\jobsoft\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1USec0gAhgZNJJ21kMZoaJWNOIS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\testideaworkspace\hbasetest01\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HbaseTest">
+    <configuration name="HbaseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HbaseDemo" />
+      <module name="hbasetest01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HbaseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="APP.HbaseTest" />
+      <module name="hbasetest01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="APP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HbaseTest" />
+        <item itemvalue="Application.HbaseDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4227cd53-f7e9-47d1-a202-54f8acdf8198" name="Default Changelist" comment="" />
+      <created>1575354498829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575354498829</updated>
+      <workItem from="1575354499954" duration="4826000" />
+      <workItem from="1575359370791" duration="7244000" />
+      <workItem from="1575367249992" duration="1306000" />
+      <workItem from="1575425704566" duration="9767000" />
+      <workItem from="1575509508059" duration="1016000" />
+      <workItem from="1575529353778" duration="17000" />
+      <workItem from="1575972709131" duration="15000" />
+      <workItem from="1576548854800" duration="5966000" />
+      <workItem from="1576573874213" duration="3115000" />
+      <workItem from="1576635744444" duration="53000" />
+      <workItem from="1576637807588" duration="7000" />
+      <workItem from="1576637951625" duration="17060000" />
+      <workItem from="1576809666908" duration="1500000" />
+      <workItem from="1576812685196" duration="7439000" />
+      <workItem from="1577087399074" duration="6267000" />
+      <workItem from="1577164590092" duration="10000" />
+      <workItem from="1577166008638" duration="84000" />
+      <workItem from="1578988405490" duration="153000" />
+      <workItem from="1578989912849" duration="390000" />
+      <workItem from="1578990310756" duration="43000" />
+      <workItem from="1585804096704" duration="895000" />
+      <workItem from="1585881290547" duration="947000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="203" key="#Project_Structure" timestamp="1585804147587">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="380" y="203" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585804147587" />
+    <state x="850" y="245" key="FileChooserDialogImpl" timestamp="1585881583923">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="850" y="245" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585881583923" />
+    <state x="41" y="76" key="SettingsEditor" timestamp="1578989961282">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="41" y="76" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578989961282" />
+    <state x="208" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1578990310832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="208" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578990310832" />
+  </component>
+</project>
